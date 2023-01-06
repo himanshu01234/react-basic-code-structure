@@ -11,7 +11,7 @@
     "react-images-upload": "^1.1.99",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "reactjs-bootstrap-table": "^1.0.12",
     "reactjs-localstorage": "0.0.6",
     "redux": "^4.0.0",
